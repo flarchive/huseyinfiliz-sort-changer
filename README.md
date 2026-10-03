@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of huseyinfiliz/sort-changer.** Not for installation: use [Packagist](https://packagist.org/packages/huseyinfiliz/sort-changer) or the [upstream repository](https://github.com/huseyinfiliz/sort-changer).
 
-**0** versions archived · Latest: [`v2`](https://github.com/flarchive/huseyinfiliz-sort-changer/tree/archive/v2) · License: `MIT` · Flarum: `^1.8.1`
+**2** versions archived · Latest: [`v2`](https://github.com/flarchive/huseyinfiliz-sort-changer/tree/archive/v2) · License: `MIT` · Flarum: `^1.8.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1` | 2025-08-29 | `^1.8.1` | [Browse](https://github.com/flarchive/huseyinfiliz-sort-changer/tree/archive/v1) |
+| `v2` | 2026-01-20 | `^1.8.1` | [Browse](https://github.com/flarchive/huseyinfiliz-sort-changer/tree/archive/v2) |
 
 Catalog entry: [packages/huseyinfiliz-sort-changer.json](https://github.com/flarchive/archive-index/blob/main/packages/huseyinfiliz-sort-changer.json)
 
